@@ -1,10 +1,12 @@
 # automationhacks/ama
 
+## Why
+
 A repository to ask [@automationhacks](https://twitter.com/automationhacks) anything.
 
-I [work at Gojek](https://automationhacks.io/about/) and am an experienced Software Engineer in Test, I've [written extensively on Test automation, Testing and Quality at my blog](https://automationhacks.io/) and have [spoken](https://automationhacks.io/talks/) about Appium, Selenium and backend automation at some prominent conferences. If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+I [work at Gojek](https://automationhacks.io/about/) and am an experienced Software Engineer in Test, I've [written extensively on Test automation, Testing and Quality at my blog](https://automationhacks.io/) and have [spoken](https://automationhacks.io/talks/) about Appium, Selenium and backend automation at some prominent conferences. If you have a question you're interested in knowing my thoughts about, then this is just the joint for you.
 
-This would be helpful to also create a breadcrumb tail of such questions which I can always point new an aspiring test automation journeymen's to. 😀
+Also, This would be helpful to create a breadcrumb tail of such questions which I can always point new an aspiring test automation journeymen's to and maybe refer myself lest this information gets lost in the trail of twitter/blog feeds 😀
 
 ### Ask a question 🗣👩🏻‍💻
 
